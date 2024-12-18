@@ -1,0 +1,36 @@
+# Arduino build files
+*.ino.cpp
+*.ino.d
+*.o
+*.elf
+*.hex
+*.bin
+*.obj
+*.d
+
+# Proteus backup and temporary files (ignore these)
+*.bak
+*.autosave
+*.swp
+*.~*
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Arduino IDE preferences and library manager
+arduino_debug.txt
+build/
+libraries/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+*~
+
+# User-specific files
+*.user
+
+# Ignore workspace-specific files
+p2.pdsprj.FEDORA.Bagheri.workspace
+*.log
