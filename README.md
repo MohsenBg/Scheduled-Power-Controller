@@ -2,6 +2,10 @@
 
 This project is an Arduino-based system designed to control the power of a device based on a timer. The user can set a specific time interval for the device to be on and off using a keypad for password input. The project uses an LCD screen to display options and statuses. The system also allows for changing the password stored in EEPROM.
 
+![ScheduledPowerController](https://github.com/user-attachments/assets/e11a2a52-d713-442a-a05c-f938fa13af9d)
+
+
+
 ## Features
 
 - **Keypad Authentication:** A password is required to access the system and configure settings.
